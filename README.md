@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/ozkannbuyuk/css-egghead-homepage/assets/111967202/f941ff70-84a9-49e5-8503-9ad6d38dfe37" width="700" />
+  <img src="https://github.com/ozkannbuyuk/css-egghead-homepage/assets/111967202/c102807f-f2b8-4cca-84fb-086fbebd78af" width="700" />
 </p>
 
 <h2>
