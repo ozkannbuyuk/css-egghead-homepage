@@ -188,6 +188,7 @@ img {
 
 .header .logo {
     margin-right: 40px;
+    float: left;
 }
 
 .header .menu ul li a {
